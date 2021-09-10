@@ -1,4 +1,5 @@
-﻿US Bikeshare Data Analysis Project
+----HAPPY CODING!!----
+US Bikeshare Data Analysis Project
 
 Overview:
 In this project, Python is used to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington.
@@ -74,3 +75,5 @@ User info:
 counts of each user type
 counts of each gender (only available for NYC and Chicago)
 earliest, most recent, most common year of birth (only available for NYC and Chicago)
+
+----HAPPY CODING!!----
